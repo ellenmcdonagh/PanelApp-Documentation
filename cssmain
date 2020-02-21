@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  
+    <title>PanelApp Documentation</title>
+    
+    <style> 
+    h1 {color: darkgrey;text-align: center; font-family: helvetica;} 
+    h2 {color: grey;text-align: center; font-family: helvetica;}
+    h3 {color: white; font-family: helvetica;}
+    body {background-color: white;}
+    p {color: grey;}
+    p {font-family: helvetica;}
+      img {img-align: center;}
+    #h3box {
+          background-color: grey;
+          height: 40px;
+          }
+   
+    
+    </style>
+    
+  </head>
